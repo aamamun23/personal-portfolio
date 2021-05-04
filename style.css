@@ -73,6 +73,15 @@ h2{
 a span{
     margin-right: 10px;
 }
+.bar{
+    display: inline-block;
+    width: 50px;
+    height: 5px;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+}
+.text-center{
+    text-align: center;
+}
 
 /* Latest Working  */
 .latest-working{
@@ -83,7 +92,6 @@ a span{
 }
 .latest-working h2{
     text-align: center;
-    margin-bottom: 50px;
 }
 .latest-working h4{
     font-family: 'Roboto', sans-serif;
